@@ -13,3 +13,8 @@ Pasos para configurar el workspace usando GitHub
 Algunas comandlines:
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
+
+Fuente:
+[1] http://michaelcrump.net/using-github-with-visualstudio-code/
+[2] https://code.visualstudio.com/Docs/editor/versioncontrol#_initialize-a-repository
+[3] https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control

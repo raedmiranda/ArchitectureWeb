@@ -1,2 +1,3 @@
-# test2
-demo only
+# Architecture Website
+
+A clear and responsive website for a building company.
